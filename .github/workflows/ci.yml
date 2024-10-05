@@ -20,7 +20,7 @@ jobs:
       id: go
 
     - name: Check out code into go module directory
-      run: actions/checkout@v2
+      run: actions/checkout@v4
 
     - name: Test
       run: make test
