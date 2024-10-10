@@ -19,7 +19,7 @@ __Database migrations written in Go. Use as [CLI](#cli-usage) or import as [libr
 
 Forked from [mattes/migrate](https://github.com/mattes/migrate)
 
-## Databases
+### Databases
 
 Database drivers run migrations. [Add a new database?](database/driver.go)
 
